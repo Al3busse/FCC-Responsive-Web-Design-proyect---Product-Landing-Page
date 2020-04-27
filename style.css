@@ -350,7 +350,7 @@ h1 {
 }
 
 .mas-vendidos-img {
-  border: 1px solid #11
+  border: 1px solid #111;
   background: var(--celeste-medio);
   border-radius: 4px;
   padding: 2px;
